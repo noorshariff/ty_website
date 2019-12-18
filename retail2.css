@@ -1,0 +1,95 @@
+html{
+    font-size: 16px;
+}
+* {
+    min-height: 0;
+    min-width: 0;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    font-variant: normal;
+    font-style: normal;
+}
+
+.mainheading h6{
+    font-size: 40px;
+    padding: 35px 65px;
+    color: #404040;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.row.main{
+    background-color: #ff9800 !important;
+    padding: 25px;
+    line-height: 1.0;
+}
+.col{
+    
+    color:black;
+    padding:  55px;
+    
+}
+.customer-heading{
+    font-size: 32px;
+    font-weight: 700;
+}
+.results-heading{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 0px;
+}
+.row.results-tools{
+    background-color: #404040;
+    color: white;
+    padding:  55px;
+}
+.tools{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.benifits{
+    font-size: 25px;
+    font-weight: 700;
+}
+.testspan{
+    font-size: 28px;
+    font-weight: 800;
+    color:  white;
+    background-color: #ff9800 !important;;
+    height: 60px;
+    width: 130px;
+    text-align: center;
+    padding-top: 10px;
+    font-variant-numeric: oldstyle-nums;  
+    
+}
+.platforms h1{
+    font-weight: 800;
+    color:  #ff9800 !important;
+}
+.effort h1{
+    font-weight: 800;
+    color:  #ff9800 !important;
+}
+table{
+    width: 70%;
+}
+.col-md-4.results{
+    text-align: center;
+
+}
+.testp{
+    background-color: gray;
+    height: 25px;
+    width: 130px;
+    text-align: center;
+}
+
+.test-cases{
+    padding: 8px;
+    right: 6px;
+    position: relative;
+   
+}
+#toolstech{
+       font-size: 18px;
+}

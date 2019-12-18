@@ -1,0 +1,64 @@
+html{
+    font-size: 16px;
+}
+* {
+    min-height: 0;
+    min-width: 0;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+.retail-heading{
+    color:black;
+    padding:  55px;
+    
+}
+.customer-heading{
+    font-size: 32px;
+    font-weight: 700;
+   
+}
+.results-heading,.tools{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.customer,.tool-automation.col-md-6{
+    background-color: #404040;
+    color: white;
+    padding:  55px;
+}
+.results-image img{
+    
+    border-radius: 4px;
+    padding: 5px;
+}
+.platform-image{
+    border-radius: 4px;
+    padding: 5px;
+}
+.tools{
+    font-size: 25px;
+    font-weight: 700;
+    color: #ff9800;
+}
+
+.img-fluid{
+    max-width: 100%;
+  height: auto;
+}
+.row.main2{
+    background-color:  #ff9800 !important;
+  
+}
+.customer.col-md-6{
+  font-family: AkzidenzGroteskStd,sans-serif;
+    font-size: 18px;
+} 
+.results-heading{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 0px;
+    color: #ff9800;
+  }
